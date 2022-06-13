@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71471cad-3e19-4eff-aaaf-ed1490cb2cb4": {
+      "ProjectGuid": "71471cad-3e19-4eff-aaaf-ed1490cb2cb4",
+      "DisplayName": "APINalog",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

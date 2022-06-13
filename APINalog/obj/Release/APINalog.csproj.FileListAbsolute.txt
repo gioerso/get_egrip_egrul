@@ -1,0 +1,11 @@
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\bin\Release\APINalog.exe.config
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\bin\Release\APINalog.exe
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\bin\Release\APINalog.pdb
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\bin\Release\Newtonsoft.Json.dll
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\bin\Release\Newtonsoft.Json.xml
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\obj\Release\APINalog.csproj.AssemblyReference.cache
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\obj\Release\APINalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\obj\Release\APINalog.csproj.CoreCompileInputs.cache
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\obj\Release\APINalog.csproj.CopyComplete
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\obj\Release\APINalog.exe
+C:\Users\Billy Herrington\Desktop\Учёба\MyProjects\APINalog\APINalog\obj\Release\APINalog.pdb
